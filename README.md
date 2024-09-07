@@ -25,7 +25,7 @@ OPTIONS:
 
 Usage: 
 - use in replacement of curl, wget, ... commands when downloading very large dataset
-- to fully utilize available internet bandwith
+- to fully utilize available internet bandwidth
 - and significantly reduce overall tansfer time
 
 Requirement: 
