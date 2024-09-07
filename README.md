@@ -1,5 +1,5 @@
 # co-curl
-Concurrent cURL
+Concurrent cURL (Version 1.0.0)
 
 
 ```txt
