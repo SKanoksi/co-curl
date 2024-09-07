@@ -23,12 +23,13 @@ OPTIONS:
   NOTE: --single-part and --merge are mutually execlusive, the lastest takes effect.
 ```
 
-Usage: \
-- use in replacement of curl, wget, ... commands when downloading very large dataset\
-- to fully utilize available internet bandwith\
+Usage: 
+- use in replacement of curl, wget, ... commands when downloading very large dataset
+- to fully utilize available internet bandwith
 - and significantly reduce overall tansfer time
 
-Requirement: libcurl (curl.h, libcurl.so.x, ...)
+Requirement: 
+libcurl (curl.h, libcurl.so.x, ...)
 
-Known limitation:\
-1. Silently fail when data servers do not support partial download or other network issues. Need to use --verbose explicitly.\
+Known limitation:
+1. Silently fail when data servers do not support partial download or other network issues. Need to use --verbose explicitly.
