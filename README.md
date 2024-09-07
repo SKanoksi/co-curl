@@ -32,4 +32,4 @@ Requirement:
 libcurl (curl.h, libcurl.so.x, ...)
 
 Known limitation:
-1. Silently fail when data servers do not support partial download or other network issues. Need to use --verbose explicitly.
+1. Silently fail when data servers do not support partial download or other network issues. Need to use --verbose explicitly to see why it fails.
